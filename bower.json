@@ -1,0 +1,17 @@
+{
+  "name": "grunttest",
+  "version": "0.0.0",
+  "authors": [
+    "Chitrank-Dixit <chitrankdixit@gmail.com>"
+  ],
+  "description": "This is the simple grunt implementation to know about grunt",
+  "keywords": [
+    "grunt",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "http://chitrank-dixit.github.io/",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
